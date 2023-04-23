@@ -6,11 +6,9 @@
 
 ### Game Installation Instructions.  
 
-
+##
+##
 ## STAR WARS SPACE SHOOTER.
-
-
-
 
 ![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STAR_WARS/StarWars_1.jpeg)_ 
 ![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STAR_WARS/StarWars_2.jpeg)_ 
@@ -21,10 +19,6 @@
 
 ### Description.
 This is the classic spaceship shooting game of a lifetime. The mission of this spaceship game is to destroy waves of enemies with your alien weapons. You must be armed with the best weapons for the final boss of the level.
-
-
-
-
 
 
 ### Background
@@ -70,9 +64,71 @@ There are three items that will help you during your game, an item that temporar
 capacity with a greater number of shots at the same time, an item that gives you a shield that makes you 
 invulnerable, and a third that gives you extra lives.
 ```  
-##
-##
 
+
+
+
+##
+##
+## STITCH ADVENTURE PLATFORM GAME.
+
+### Description.
+
+This game was part of a small gift for a special person for me because she loved this little blue one called Stitch. Is a classical platform game with two levels, because is unfinished. In the future I want to improve the scenarios, the mobility of the character, add more levels with more diversity of scenarios.
+
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch6.jpg)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch3.jpg)
+
+
+### Screenshots.
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch1_260.jpg)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch2_260.jpg)
+
+
+
+### The character. 
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/heart.png)
+### The moves: ![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/movesBlack.png)
+### The enemy Bat: ![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/opossum.png)
+
+
+### Assets.
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/autotilemap-brick.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/autotilemap.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/cherry.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/example.PNG)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/props.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/tileset.png)
+
+### Buttons. 
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/jump.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/jump_transparent.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/left.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/left_transparent.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/right.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/right_transparent.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/shoot.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/shoot_transparent.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/start_game.png)
+
+
+
+
+### Controls.
+```diff
+Move right:           D
+Move left:            A
+Move up               W
+Move down:            S
+Shot cherries         SPACE
+```  
+
+
+
+
+
+##
+##
 ## CLON POKEMON GAME.
 
 ![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/POKEMON/1.png)
@@ -143,59 +199,5 @@ Let a explosive:      X
 ```  
 
 
-##
-##
 
 
-## STITCH ADVENTURE PLATFORM GAME.
-
-### Description.
-
-This game was part of a small gift for a special person for me because she loved this little blue one called Stitch. Is a classical platform game with two levels, because is unfinished. In the future I want to improve the scenarios, the mobility of the character, add more levels with more diversity of scenarios.
-
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch6.jpg)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch3.jpg)
-
-
-### Screenshots.
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch1_260.jpg)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch2_260.jpg)
-
-
-
-### The character. 
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/heart.png)
-### The moves: ![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/movesBlack.png)
-### The enemy Bat: ![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/opossum.png)
-
-
-### Assets.
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/autotilemap-brick.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/autotilemap.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/cherry.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/example.PNG)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/props.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/tileset.png)
-
-### Buttons. 
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/jump.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/jump_transparent.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/left.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/left_transparent.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/right.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/right_transparent.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/shoot.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/shoot_transparent.png)
-![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/start_game.png)
-
-
-
-
-### Controls.
-```diff
-Move right:           D
-Move left:            A
-Move up               W
-Move down:            S
-Shot cherries         SPACE
-```  
