@@ -75,9 +75,9 @@ invulnerable, and a third that gives you extra lives.
 
 ## CLON POKEMON GAME.
 
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/1.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/3.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/2.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/POKEMON/1.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/POKEMON/3.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/POKEMON/2.png)
 
 ### Description.
 Pokémon is a series of video games developed by Game Freak and published by Nintendo and The Pokémon Company under the Pokémon media franchise. It was created by Satoshi Tajiri with assistance from Ken Sugimori, the first games, Pocket Monsters Red and Green, were released in 1996 in Japan for the Game Boy, later released outside of Japan as Pokémon Red and Blue. The main series of role-playing video games (RPGs), referred as the "core series" by their developers, have continued on each generation of Nintendo's handhelds. The most recently released core series game, Pokémon Scarlet and Violet, was released on November 18, 2022, for the Nintendo Switch.
@@ -89,13 +89,13 @@ Pokémon is estimated to be the largest media franchise, with successful anime s
 
 
 ### Your character.
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/player.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/POKEMON/player.png)
 ### Assets.
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/spritesheet.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/tile1.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/POKEMON/spritesheet.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/POKEMON/tile1.png)
 
 ### Font.
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/text.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/POKEMON/text.png)
 
 
 ### Controls.
@@ -123,14 +123,14 @@ Most games in the Bomberman franchise largely revolve around two modes of play; 
 
 
 
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/BOMBERMAN/bomberman22.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/BOMBERMAN/bomberman22.png)
 
 ### Font.
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/BOMBERMAN/letra.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/BOMBERMAN/letra.png)
 
 
 ### Sprites.
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/BOMBERMAN/sprites2.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/BOMBERMAN/sprites2.png)
 
 
 ### Controls.
@@ -153,40 +153,40 @@ Let a explosive:      X
 
 This game was part of a small gift for a special person for me because she loved this little blue one called Stitch. Is a classical platform game with two levels, because is unfinished. In the future I want to improve the scenarios, the mobility of the character, add more levels with more diversity of scenarios.
 
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/stitch6.jpg)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/stitch3.jpg)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch6.jpg)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch3.jpg)
 
 
 ### Screenshots.
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/stitch1_260.jpg)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/stitch2_260.jpg)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch1_260.jpg)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/stitch2_260.jpg)
 
 
 
 ### The character. 
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/heart.png)
-### The moves: ![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/movesBlack.png)
-### The enemy Bat: ![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/opossum.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/heart.png)
+### The moves: ![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/movesBlack.png)
+### The enemy Bat: ![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/opossum.png)
 
 
 ### Assets.
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/autotilemap-brick.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/autotilemap.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/cherry.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/example.PNG)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/props.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/tileset.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/autotilemap-brick.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/autotilemap.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/cherry.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/example.PNG)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/props.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/tileset.png)
 
 ### Buttons. 
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/jump.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/jump_transparent.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/left.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/left_transparent.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/right.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/right_transparent.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/shoot.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/shoot_transparent.png)
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/start_game.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/jump.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/jump_transparent.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/left.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/left_transparent.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/right.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/right_transparent.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/shoot.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/shoot_transparent.png)
+![](https://github.com/DamianPyCoder/Godot__Games__StarWars_Stich_Pokemon_Bomberman/blob/main/STITCH/start_game.png)
 
 
 
